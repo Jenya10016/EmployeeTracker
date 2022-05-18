@@ -3,7 +3,7 @@ const connection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     database: 'employee_tracker',
-    password: '!Password1'
+    password: 'password'
 });
 
 function getAllEmployees(cb) {

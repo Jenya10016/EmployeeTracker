@@ -19,6 +19,7 @@ This is a console app that allows a user to track employees in a company. The us
 ## Video
 
 <a href="https://youtu.be/0LFviR8ClTA">Click for Video</a>
+<a href="https://jenya10016.github.io/EmployeeTracker>Click here for github repository</a>
 
 ## Usage
 

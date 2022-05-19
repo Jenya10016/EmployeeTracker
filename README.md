@@ -18,11 +18,14 @@ This is a console app that allows a user to track employees in a company. The us
 
 ## Video
 
-<a href="VIDEO LINK GOES HERE">Click for Video</a>
+<a href="https://youtu.be/0LFviR8ClTA">Click for Video</a>
 
 ## Usage
 
 Use schema.sql to create the database and seeds.sql to populate with data. Change the user/password in dal.js to a local mysql user with appropriate privileges. To run the app, first run npm install to get the packages and then enter "node index" to start the console app and answer the prompts. You can view all employees, add employees, update employee rolls, view roles, add roles, view departments and add departments. To exit the program, select "Exit".
+
+![time](./assets/12-sql-homework-demo-01.png);
+![time](./assets/vt.png)
 
 ## Questions
 
